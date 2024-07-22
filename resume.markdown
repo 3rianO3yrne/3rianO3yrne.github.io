@@ -66,6 +66,13 @@ coming up with a plan to compare the two sources, evaluate data integrity differ
 create follow up work as needed, and informing all stakeholders and the team of where we were in this
 process as it moved along.
 
+* IC for Finance Register Service API - an appeasement and fee register utilitiy
+  * Wrote Technical Design Doc (TDD) for the service, presenting and advocating for the scope and technologies
+  * (todo add tech details)
+  * Reduced Guest Experience processing time for recording of financal appeasements and refunds, increasing guest satisfaction and decreassing overall call time
+  * Eliminated manual reclassification of revenue by finance team, saving 100's of manhours a month
+  * 
+
 ### Software Engineer III
 
 ### Vacasa
