@@ -12,66 +12,23 @@ linkedin.com/in/3riano3yrne
 ```
 ## Summary
 
-My most recent role was as a Senior Software Engineer at Vacasa where I worked on the Finance Technology
-team.
-
-What I loved about this role was that it really fulfilled my curiosity to know how everything worked first hand: from
-the infra on up to the business logic and database management.
-
-I love reading and writing code and have experience planning and building greenfield products and features as
-well as maintaining legacy products. I love taking a TDD approach and one of the first questions I will always ask
-myself is “How do we test this?”.
-
-And it’s not just the tech that made me excited for this role: I also loved engaging with my team. I thrive on
-collaboration and deep diving into topics. I encourage “stupid” questions (and ask them myself) and lean into my
-teammates to ensure everyone has a voice at the table and we have the same understanding.
-
-I love figuring out the business needs, making a plan and then bringing my ideas to the team in the form of a
-conversation, a presentation, or ADR. I have experience advocating for my ideas and documenting proposals and
-decisions.
-
-When writing tickets (Epics, Stories, etc) for my team, I learned first hand how important it can be to differentiate
-between the acceptance criteria and the implementation criteria: leaving enough room for developers to form their
-own opinions and use their own creativity but with enough guidance to reach the same end goal.
-
-My previous (pre-tech) work experience was in the specialty coffee industry where I was the General Manger of
-a busy cafe. That experience plays a huge role in how I operate: putting the team first; looking at the big picture;
-pushing product out the door in a collaborative, positive, way; lifting people up when they are bogged down;
-always offering to help or offer a listening ear; and of course keeping my eye on the prize of executing a great
-product in a timely manner, to keep our customers coming back for more.
-
-My hobbies include working on my truck, hiking, camping, talking about Star Trek, spending time with my family
-and drinking coffee.
-
+TODO 
 ## Experience
-
 ### Senior Software Engineer
-
-### Vacasa
-
-```
+#### Vacasa | Finance Technology Team
 Oct 2021 - May 2024 (2 years 8 months)
-As Senior Software Engineer, I worked on the Finance Engineer team and was responsible for planning
-and building features, writing tickets, code reviews, mentorship, as well as advocating for and driving
-work.
-```
-```
-I worked closely with my Manager and Product Manager to evaluate priorities and offer guidance. I was
-the subject matter expert for our products.
-```
 
-I also worked cross-team to achieve our deliverables, most notably working with the data team as
-the organization transitioned from redshift to snowflake as the backend data source. This included
-coming up with a plan to compare the two sources, evaluate data integrity differences, create test plans,
-create follow up work as needed, and informing all stakeholders and the team of where we were in this
-process as it moved along.
+* Individual Contributor (IC) for Finance Register Service
+  * Reduced processing time for the recording of financial appeasements and refunds, reducing call center times by 30% 
+  * Eliminated reclassification of revenue by finance team saving 100's of work-hours a month 
+  * Technologies Used: Django REST, PostgresSQL, Amazon ECS, GitHub Actions Deploy Pipeline, Datadog APM, Terraform w/ Atlantis
 
-* IC for Finance Register Service API - an appeasement and fee register utilitiy
-  * Wrote Technical Design Doc (TDD) for the service, presenting and advocating for the scope and technologies
-  * (todo add tech details)
-  * Reduced Guest Experience processing time for recording of financal appeasements and refunds, increasing guest satisfaction and decreassing overall call time
-  * Eliminated manual reclassification of revenue by finance team, saving 100's of manhours a month
-  * 
+* Individual Contributor (IC) for Revenue data migration from Redshift to Snowflake
+  * Collaborated with Data Science team to transition Revenue related backend data sources
+  * High level of documentation and communication for supporting parties to assure 100% SOX compliance before, during, and after the transition 
+  * Technologies Used: PostgresSQL, Python, Amazon S3, Airflow, Snowflake
+
+TODO:  RPS - section
 
 ### Software Engineer III
 
