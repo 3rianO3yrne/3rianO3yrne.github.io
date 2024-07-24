@@ -14,27 +14,38 @@ linkedin.com/in/3riano3yrne
 
 TODO 
 ## Experience
-### Senior Software Engineer
-#### Vacasa | Finance Technology Team
+
+### Senior Software Engineer / Individual Contributor
+#### Vacasa | Finance Operations Team (Fin Ops)
 Oct 2021 - May 2024 (2 years 8 months)
 
-* Individual Contributor (IC) for Finance Register Service
+* IC for Finance Register Service
   * Reduced processing time for the recording of financial appeasements and refunds, reducing call center times by 30% 
   * Eliminated reclassification of revenue by finance team saving 100's of work-hours a month 
   * Technologies Used: Django REST, PostgresSQL, Amazon ECS, GitHub Actions Deploy Pipeline, Datadog APM, Terraform w/ Atlantis
 
-* Individual Contributor (IC) for Revenue data migration from Redshift to Snowflake
+* IC for Revenue data migration from Redshift to Snowflake
   * Collaborated with Data Science team to transition Revenue related backend data sources
   * High level of documentation and communication for supporting parties to assure 100% SOX compliance before, during, and after the transition 
   * Technologies Used: PostgresSQL, Python, Amazon S3, Airflow, Snowflake
 
-TODO:  RPS - section
+* Senior Software Engineer for Revenue Processing Service
+  * Acted in various capacities as SME, Lead Engineer, DBA, IC and DevOps
+  * Reduced staff processing time of revenue for monthly financial close by eliminating manual processes and reporting into a fully automated system integrated with the ERP system
+  * Built daily automating of owner revenue (credits/debits), resulting in accelerated owner payments
+  * Technologies Used: Python, Alembic, PostgresSQL, Amazon ECS, Amazon S3, Airflow, GitHub Actions Deploy Pipeline, Datadog APM, Terraform, NetSuite ERP
 
 ### Software Engineer III
-
-### Vacasa
-
+#### Vacasa | Human Resource Operations Team (HRIS Ops)
 Nov 2019 - Sep 2021 (1 year 11 months)
+
+* IC for Employee Lifecycle Management Tooling and Payroll operations
+  * During 2020 Pandemic, fully automated employee off-boarding, furloughs and re-onboarding lifecycle to handle rapidly changing business needs
+  * Acted as SME and Lead Engineer capacity for HRMS migration (From Namely to Ultipro)
+  * TODO: PAYROLL
+  * Technologies Used: PHP, Laravel, Alembic, Jenkins, Docker, MariaDB
+ 
+
 As Software Engineer III, I supported Vacasa's HR tooling and Payroll systems.
 
 This included building api integrations with Namely and Ultipro, designing and implementing user
