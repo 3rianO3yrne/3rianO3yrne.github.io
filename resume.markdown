@@ -7,12 +7,22 @@ permalink: /resume/
 # Brian O'Byrne
 
 ```
-brian.obyrne@protonmail.com 
 linkedin.com/in/3riano3yrne
 ```
 ## Summary
 
-TODO 
+Experienced Senior Software Engineer with proven track record of engagement, curiosity, and drive, looking to build things. 
+
+### Technical specialties
+
+**SQL (Postgres, Redshift, MariaDB):** Database design - User/role management - Major version updates - Query optimization
+
+**AWS technologies (Managed via IaC):** ECS - S3 - RDS - Lambda - EventBridge
+
+**Primary Programming Languages:** Python - PHP
+
+**Less recent experience:** Javascript - React - Typescript 
+
 ## Experience
 
 ### Senior Software Engineer / Individual Contributor
@@ -52,89 +62,25 @@ Feb 2017 - Oct 2019 (2 years 9 months)
 
 * Supported Vacasa.com's booking flow (pre conversion) 
 * Supported Guest Trip Portal and Trip Portal API (post conversion)
-* Decopled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to decouple monoloith infraustucture into services
+* Decoupled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to move from monoloith infraustucture into micro services
 * Worked cross-team with Vacasa's internal notification api
-team (Santiago, Chile), integrating the guest workflows with their api, designing dynamic email templates, 
+team (Santiago, Chile), integrating the guest email workflows with their api, designing dynamic email templates, and providing the backend data
+* Technologies Used: PHP, Laravel, Typescript, Docker
 
 ### Junior Software Engineer
 
 ### Vacasa | Guest Experience 
 May 2016 - Jan 2017 (9 months)
-* 
-As Junior Engineer, I supported the Guest facing services at Vacasa including providing support for
-the vacasa.com unit pages, building booking calendars and implementing style changes (re-branding)
-provided by the design team.
 
-This included a/b testing of features using 3rd party feature flag tooling.
-
-Additionally I worked on Vacasa's first Owner Portal built in React.
+* Applied re-branding for customer facing site using designs provided by design team
+* a/b testing of features using 3rd party feature flag tooling
+* Built Owner facing site (Vacasa's first React App)
+* Technologies Used: PHP, Laravel, Twig, SCSS, Webpack, Reach
 
 ### Software Engineer Intern
-
 ### Vacasa 
 Jan 2016 - May 2016 (5 months)
 
-* Modernized Legacy platform to use Laravel Eloquent ORM and converting raw SQL to use the ORM
-
-### Barista
-
-### Extracto Coffee Roasters
-
-Mar 2015 - Sep 2015 (7 months)
-
-### General Manager
-
-
-### Marsee Foods Inc
-
-```
-May 2009 - Jan 2015 (5 years 9 months)
-* Proficient in all day to day operations
-* Managed a team of nine employees
-* Assisted 100+ customers per day establishing a great rapport with customers new and old
-* Compiled training materials including coffee knowledge and procedural quizzes
-* Set store policies and expectations
-* Programmed registers and troubleshot all issues
-* Evaluated and developed employees for promotional consideration
-* Organized, energized, and directed staff to complete an efficient and successful daily service
-* Cultivated a low employee turnover rate by encouraging open communication, listening to issues, and
-being open to suggestions
-* Maintained relationships with 11 vendors and communicate on a weekly basis via email, phone, or in
-person
-* Establish and adjusted competitive food menu pricing based on 30% of ingredient cost
-```
-### Assistant Manager
-
-### Marsee Foods Inc
-
-```
-Sep 2006 - Apr 2009 (2 years 8 months)
-* Supported the General Manager in all training
-* Upheld all company standards
-* Effectively communicated and coordinated with the Manager all operational practices
-* Coached and supported staff to foster a safe and fun workplace
-* Placed and received orders with merchants
-* Monitored rotation of fresh produce
-* Routinely exceeded customer expectations
-* Acted as the supervisor in the absence of the General Manager
-```
-## Education
-
-### Epicodus
-
-### PHP, Javascript, Drupal, Git, MySQL, HTML, CSS, Pair-programming
-
-#### 2015 - 2015
-
-### Portland Community College
-
-### Computer Information Systems
-
-#### 2013 - 2015
-
-## Skills
-
-```
-PostgreSQL • Amazon Web Services (AWS) • Python (Programming Language) • PHP • Django REST
-Framework • Terraform
-```
+* Modernized Legacy platform to use Laravel Eloquent ORM
+* Converted raw SQL to use the ORM
+* Technologies Used: PHP, Laravel, Twig
