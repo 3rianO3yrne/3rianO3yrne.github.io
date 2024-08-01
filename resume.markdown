@@ -41,32 +41,26 @@ Nov 2019 - Sep 2021 (1 year 11 months)
 
 * IC for Employee Lifecycle Management Tooling and Payroll operations
   * During 2020 Pandemic, fully automated employee off-boarding, furloughs and re-onboarding lifecycle to handle rapidly changing business needs
-  * Acted as SME and Lead Engineer capacity for HRMS migration (From Namely to Ultipro)
-  * TODO: PAYROLL
+  * Acted as SME and in Lead Engineer capacity for HRMS migration (From Namely API to Ultipro API)
+  * Maintained and iterated on Legacy Payroll reporting, aggregating hourly employee labor into a bi-monthly report while keeping discrepancies below 1%
+  * Developed incident runbook and wrote documentation for labor rules and payroll processes
   * Technologies Used: PHP, Laravel, Alembic, Jenkins, Docker, MariaDB
  
-
-As Software Engineer III, I supported Vacasa's HR tooling and Payroll systems.
-
-This included building api integrations with Namely and Ultipro, designing and implementing user
-onboarding and off-boarding workflows, integrating with OneLogin and GSuite, and building Payroll
-reporting systems based on data from Vacasa's homegrown legacy time-tracking systems.
-
 ### Software Engineer II
-
-### Vacasa
-
+### Vacasa | Guest Experience Team
 Feb 2017 - Oct 2019 (2 years 9 months)
-In this role, I supported Vacasa.com's booking flow, Guest Trip Portal and Trip Portal API.
 
-I also provided support for Guest Emails working cross-team with Vacasa's internal notification api
-team, integrating the guest workflows with their api and designing dynamic email templates.
+* Supported Vacasa.com's booking flow (pre conversion) 
+* Supported Guest Trip Portal and Trip Portal API (post conversion)
+* Decopled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to decouple monoloith infraustucture into services
+* Worked cross-team with Vacasa's internal notification api
+team (Santiago, Chile), integrating the guest workflows with their api, designing dynamic email templates, 
 
 ### Junior Software Engineer
 
-### Vacasa
-
+### Vacasa | Guest Experience 
 May 2016 - Jan 2017 (9 months)
+* 
 As Junior Engineer, I supported the Guest facing services at Vacasa including providing support for
 the vacasa.com unit pages, building booking calendars and implementing style changes (re-branding)
 provided by the design team.
@@ -77,9 +71,10 @@ Additionally I worked on Vacasa's first Owner Portal built in React.
 
 ### Software Engineer Intern
 
-### Vacasa
-
+### Vacasa 
 Jan 2016 - May 2016 (5 months)
+
+* Modernized Legacy platform to use Laravel Eloquent ORM and converting raw SQL to use the ORM
 
 ### Barista
 
