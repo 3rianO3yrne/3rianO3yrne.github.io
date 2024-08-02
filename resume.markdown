@@ -62,13 +62,13 @@ Feb 2017 - Oct 2019 (2 years 9 months)
 
 * Supported Vacasa.com's booking flow (pre conversion) 
 * Supported Guest Trip Portal and Trip Portal API (post conversion)
-* Decoupled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to move from monoloith infraustucture into micro services
+* Decoupled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to move from monolith infrastructure into micro services
 * Worked cross-team with Vacasa's internal notification api
 team (Santiago, Chile), integrating the guest email workflows with their api, designing dynamic email templates, and providing the backend data
 * Technologies Used: PHP, Laravel, Twig, Typescript, Docker
 
 ### Junior Software Engineer
-#### Vacasa | Guest Experience 
+#### Vacasa | Guest/Owner Experience Team
 May 2016 - Jan 2017 (9 months)
 
 * Applied re-branding for customer facing site using designs provided by design team
