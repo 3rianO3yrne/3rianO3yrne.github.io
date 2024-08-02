@@ -4,22 +4,21 @@ title: Resume
 permalink: /resume/
 ---
 
-# Brian O'Byrne
+## Brian O'Byrne
 
 [linkedin.com/in/3riano3yrne](https://www.linkedin.com/in/3riano3yrne/)
 
-## Summary
+### **Summary**
 
-Experienced Senior Software Engineer with proven track record of engagement, curiosity, and drive, looking to build things. 
+Experienced Senior Software Engineer with proven track record of engagement, curiosity, and drive; looking to build things. 
 
 | Technical specialties |    |
 | --- | --- |
 | SQL (Postgres, Redshift, MariaDB) | Database design - User/role management - Major/Minor version updates - Query optimization |
 | AWS technologies (Managed via IaC) |  ECS - S3 - RDS - Lambda - EventBridge |
 | Primary Programming Languages | Python - PHP |
-| Less Recent Programming Experience | Javascript - React - Typescript 
 
-## Experience
+### **Experience**
 
 | Senior Software Engineer / Individual Contributor | 
 | --- |
@@ -59,8 +58,7 @@ Experienced Senior Software Engineer with proven track record of engagement, cur
 | Vacasa - Guest Experience Team |
 | Feb 2017 - Oct 2019 (2 years 9 months) |
 
-* Supported Vacasa.com's booking flow (pre conversion) 
-* Supported Guest Trip Portal and Trip Portal API (post conversion)
+* Supported Vacasa.com's pre/post conversion Guest Experience
 * Decoupled Legacy monolith PHP/Twig/MariaDB web pages into a Typescript/MariaDB API in effort to move from monolith infrastructure into micro services
 * Worked cross-team with Vacasa's internal notification api
 team (Santiago, Chile), integrating the guest email workflows with their api, designing dynamic email templates, and providing the backend data
