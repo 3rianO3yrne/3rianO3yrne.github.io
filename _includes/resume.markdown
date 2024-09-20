@@ -4,12 +4,12 @@
 
 ### **Summary**
 
-Experienced Senior Software Engineer with proven track record of engagement, curiosity, and drive; looking to build things. 
+Experienced Senior Software Engineer specializing in AWS technologies managed via IaC with proven track record of engagement, curiosity, and drive; looking to build things. 
 
 | Technical specialties |    |
 | --- | --- |
+| AWS technologies |  ECS - S3 - RDS - Lambda - EventBridge |
 | SQL (Postgres, Redshift, MariaDB) | Database design - User/role management - Major/Minor version updates - Query optimization |
-| AWS technologies (Managed via IaC) |  ECS - S3 - RDS - Lambda - EventBridge |
 | Primary Programming Languages | Python - PHP |
 
 ### **Experience**
@@ -34,7 +34,9 @@ Experienced Senior Software Engineer with proven track record of engagement, cur
   * Reduced staff processing time of revenue for monthly financial close by eliminating manual processes and reporting into a fully automated system integrated with the ERP system
   * Built daily automating of owner revenue (credits/debits), resulting in accelerated owner payments
   * Technologies Used: Python, Alembic, PostgresSQL, Amazon ECS, Amazon S3, Airflow, GitHub Actions Deploy Pipeline, Datadog APM, Terraform, NetSuite ERP
-----
+
+---
+
 | Software Engineer III |
 | --- | 
 | Vacasa - Human Resource Operations Team (HRIS Ops) | 
@@ -46,7 +48,9 @@ Experienced Senior Software Engineer with proven track record of engagement, cur
   * Maintained and iterated on Legacy Payroll reporting, aggregating hourly employee labor into a bi-monthly report while keeping discrepancies below 1%
   * Developed incident runbook and wrote documentation for labor rules and payroll processes
   * Technologies Used: PHP, Laravel, Alembic, Jenkins, Docker, MariaDB
+
 ---
+
 | Software Engineer II |
 | --- | 
 | Vacasa - Guest Experience Team |
@@ -57,7 +61,9 @@ Experienced Senior Software Engineer with proven track record of engagement, cur
 * Worked cross-team with Vacasa's internal notification api
 team (Santiago, Chile), integrating the guest email workflows with their api, designing dynamic email templates, and providing the backend data
 * Technologies Used: PHP, Laravel, Twig, Typescript, Docker
+
 ---
+
 | Junior Software Engineer |
 | --- | 
 | Vacasa - Guest/Owner Experience Team |
@@ -67,7 +73,9 @@ team (Santiago, Chile), integrating the guest email workflows with their api, de
 * a/b testing of features using 3rd party feature flag tooling
 * Built Owner facing site (Vacasa's first React App)
 * Technologies Used: PHP, Laravel, Twig, SCSS, Webpack, React
+
 ---
+
 | Software Engineer Intern |
 | --- |
 | Vacasa |
