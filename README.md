@@ -8,18 +8,13 @@ You can view the site [here](https://3riano3yrne.github.io/).
 Install Jekyll and Ruby following the [instructions for your OS](https://jekyllrb.com/docs/installation/)
 [Mac OS installation](https://jekyllrb.com/docs/installation/macos/)
 
-In the Gemfile make sure the following gems are commented out/in
-```ruby
-gem "jekyll", "~> 4.3.4"
-...
-...
-# gem "github-pages", group: :jekyll_plugins
-```
+Run: `bundle install`
 
- if needed, run: `bundle install`
+Run: `bundle exec jekyll serve`
 
-run: `bundle exec jekyll serve`
-go to: http://localhost:4000
+To view the local site, go to: http://localhost:4000
+
+Press `ctrl-c` to stop the local server.
 
 ## Deployment
 
