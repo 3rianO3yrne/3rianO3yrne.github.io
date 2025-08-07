@@ -45,6 +45,15 @@ header_pages:
 
 show_excerpts: true
 
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      category: starship-log
+    posts:
+      category: starship-log
+      published: false
+      sitemap: false
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
