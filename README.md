@@ -1,10 +1,22 @@
-# Welcome!
+## About
 
 This is the personal webiste of Brian O'Byrne built with [Jekyll](https://jekyllrb.com/) and hosted using [GitHub Pages](https://pages.github.com/).
 
 You can view the site [here](https://3riano3yrne.github.io/).
 
+## License
+
+The original content of this project (including blog posts, writings, images, etc.) is copyrighted by me, Brian O'Byrne, as the author and creator of this content.
+
+The underlying source code used to format and display that content is licensed under the [MIT license](/LISCENSE).
+
+## Deployment
+
+Deployment happens automatically as commits are merged into 'main' branch.
+
+
 ## Local Dev
+
 Install Jekyll and Ruby following the [instructions for your OS](https://jekyllrb.com/docs/installation/)
 [Mac OS installation](https://jekyllrb.com/docs/installation/macos/)
 
@@ -16,28 +28,24 @@ To view the local site, go to: http://localhost:4000
 
 Press `ctrl-c` to stop the local server.
 
-## Deployment
 
-Deployment happens automatically as commits are merged into 'main' branch.
+## Blog Post creating with jekyll-compose
 
-## Usage
+[jekyll-compose](https://github.com/jekyll/jekyll-compose) can be optionally used for post creation. See the [jekyll-compose](https://github.com/jekyll/jekyll-compose) documentation for more details. 
 
-## Create Blog Post
-New posts can be created with [jekyll-compose](https://github.com/jekyll/jekyll-compose
-).
+New posts: 
 ```
-    bundle exec jekyll post "My New Post"
-    # or specify a custom format for the date attribute in the yaml front matter
-    bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
+ bundle exec jekyll post "My New Post"
 ```
-Create drafts
+New post w/ timestamp:
 ```
-    bundle exec jekyll draft "My new draft"
-
+bundle exec jekyll post "My New Post" --timestamp-format "%Y-%m-%d %H:%M:%S %z"
+```
+New drafts:
+```
+bundle exec jekyll draft "My new draft"
 ```
 Publish drafts:
 ```
-    bundle exec jekyll publish _drafts/my-new-draft.md
+bundle exec jekyll publish _drafts/my-new-draft.md
 ```
-
-
