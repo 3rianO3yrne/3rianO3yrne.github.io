@@ -4,7 +4,6 @@ title: Penobscot Names of the Moon
 date: 2025-08-07 16:03 -0700
 categories: starship-log
 ---
-
 My wife, since before she was my wife and for as long as I can remember, had been keeping track of her wild foraging and canning projects by noting the year and the Moon phase in the Penobscot language. When she first started doing it, it was a small and personal way for her to keep in touch and engage with her culture and with the changing seasons... and it still is. 
 
 It also became one of the first ways I was introduced to her culture. Through these Moon names hand written on jars of preserved goods. Through these Moon names written on bundles of both wild and urban foraged herbs.
@@ -23,7 +22,7 @@ The Penobscot calendar, being a lunisolar calendar is easier in some ways. The l
 
 Easy right? Maybe. But also hard.
 
-## So what is the current name of the Moon?
+### So what is the current name of the Moon?
 
 This is the question. And I know the answer.
 
@@ -31,7 +30,7 @@ Since we humans first looked up into sky, we noticed the Sun and the Moon. We co
 
 Penobscots noticed and recorded their observations into the names of things. I can't tell their story of naming as well as they but I do know the names of the Moon. So let me tell you that story.
 
-## How I learned the names of the Moon:
+### How I learned the names of the Moon:
 
 One day, not long ago, I found my wife sitting at our kitchen table. In front of her spread about the table were about a dozen or so jars that she was in mid process of labeling but the project had stalled for some reason. In fact, she was very clearly not labeling them at all. The permanent marker was set aside for the moment and the labels were haphazardly pushed to the far end of the table. Instead she was just sitting there looking increasingly frustrated practically glaring at her cellphone at something I couldn't quite see.
 
@@ -55,7 +54,7 @@ I hated saying no to her. I was a fixer, a builder, a thinker of ideas, sometime
 
 "Um, yes please!"
 
-## The Penobscot Names of the Moon App
+### The Penobscot Names of the Moon App
 
 So I got to work, a few interruptions here and there but it is almost done. 
 
@@ -65,7 +64,7 @@ Additionally, using the Penobscot Moon app, a user will be able to print a custo
 
 The app will work without an internet connection once installed, so you can be off-grid and still know the name of the Moon. 
 
-## Parting words...
+### Parting words...
 
 So now you heard the story and soon you too can know the names of the Moon.
 

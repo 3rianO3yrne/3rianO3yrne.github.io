@@ -14,7 +14,7 @@ I am currently open to work. Please feel free to reach out to me on [LinkedIn](h
 
 While your here be sure to checkout my [blog](/blog/).
 
-If you are able, I appreciate any [support](/support/) offered.
+<!-- If you are able, I appreciate any [support](/support/) offered. -->
 
 
 
