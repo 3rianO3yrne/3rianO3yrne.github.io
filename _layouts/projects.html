@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="projects">
+  {{content}}
+
+  {%- if site.projects.size > 0 -%}
+    <ul class="project-list">
+      {%- for project in site.projects -%}
+      <li>
+        <h3>
+          <a class="project-link" href="{{ project.url | relative_url }}">
+            {{ project.title | escape }}
+          </a>
+        </h3>
+        {%- if project.excerpt -%}
+          {{ project.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
