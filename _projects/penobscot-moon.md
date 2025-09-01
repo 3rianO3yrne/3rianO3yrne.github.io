@@ -22,7 +22,7 @@ Email: [penobscot.moon@gmail.com](mailto:penobscot.moon@gmail.com)
 # Privacy Policy
 
 <object data='{{ "assets/docs/privacy-policy.pdf" | absolute_url }}' width="50%" height="50%" type='application/pdf' name="Privacy Policy" border="5">Privacy Policy</object>
-<a href='{{ "assets/docs/privacy-policy.pdf" | absolute_url }}'>Download</a>
+<a href='{{ "assets/docs/privacy-policy.pdf" | absolute_url }}'>Download Policy</a>
 
 
 
