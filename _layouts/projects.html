@@ -17,6 +17,10 @@ layout: default
         {%- if project.excerpt -%}
           {{ project.excerpt }}
         {%- endif -%}
+
+        <a class="btn" href="{{ project.url | relative_url }}">
+          View Project
+        </a>
       </li>
       {%- endfor -%}
     </ul>
